@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Shift Scroll Tab Switch",
+  "version": "1.0",
+  "description": "Shift + scroll ile sekme degistir",
+  "permissions": ["tabs", "tabGroups"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
