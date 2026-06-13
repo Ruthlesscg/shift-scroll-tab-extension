@@ -47,6 +47,7 @@ chrome://extensions
 
 MIT License — free to use, modify and distribute.
 
+This extension is developed with the help of Antropic Cloude
 
 ---
 
@@ -75,4 +76,4 @@ Brave ve Chrome için hafif bir tarayıcı eklentisi. **Shift + Fare Tekerleği*
 - **Shift + Scroll Yukarı** → önceki sekme
 - **Shift + Scroll Aşağı** → sonraki sekme
 
-- cloude ile geliştirilmiştir
+- Antropic Cloude ile geliştirilmiştir
